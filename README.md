@@ -2,13 +2,10 @@
 
 
 - 🔭 I’m a Data Analyst
-- 👯 I’m looking to collaborate on data analytics projects, machine learning models and open source contributions
-- 💬 Ask me about data visualization, python, SQL, and exploratory data analysis
-- 📫 How to reach me: 
-Email: preciousokoli25@gmail.com and
-[LinkedIn](http://linkedin.com/in/precious-okoli-7a66a1279)
+- 👯 I’m looking to collaborate on Data Analytics projects, Machine Learning Models and Open Source Contributions
+- 💬 Ask me about Data Visualization, Python, SQL, and Exploratory Data Analysis
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/precious-okoli-7a66a1279) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/okoliprecious_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preciousokoli25@gmail.com) 
 
 # 💻 Tech Stack:
